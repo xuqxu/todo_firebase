@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>396183256238-kf3onffud3k8lu7gt226trr2me4n39gg.apps.googleusercontent.com</string>
+	<string>482691047650-7f1i938tpic2qemuvd25ssem9trjja1e.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.396183256238-kf3onffud3k8lu7gt226trr2me4n39gg</string>
+	<string>com.googleusercontent.apps.482691047650-7f1i938tpic2qemuvd25ssem9trjja1e</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD4UndG92QVRtrLhSo9P35GFKoa1naDHX0</string>
+	<string>AIzaSyAT5BDyLZRJ15rFpzRsaT-GxkKsoyGvpNc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>396183256238</string>
+	<string>482691047650</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>io.phai.todoFirebase</string>
 	<key>PROJECT_ID</key>
-	<string>todofirebase-e2a6c</string>
+	<string>todofirebase-3fd7c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>todofirebase-e2a6c.appspot.com</string>
+	<string>todofirebase-3fd7c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:396183256238:ios:648cda276511ed9008c13f</string>
+	<string>1:482691047650:ios:4e07b370dc63e649067ebb</string>
 </dict>
 </plist>
